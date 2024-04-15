@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
-
+#Run star fo each individual
+#made to be run by parallel
+#script <Sex [M|F]>, <input.fasta>, <NCPU>
 ########################################
 ## Global variables
 ########################################
